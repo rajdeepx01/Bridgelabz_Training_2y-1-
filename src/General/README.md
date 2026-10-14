@@ -1,11 +1,11 @@
-# Power of Two
+# Pow(x, n)
 
 - **Platform:** LeetCode
-- **Problem Number:** #231
+- **Problem Number:** #50
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Power of Two](https://leetcode.com/problems/power-of-two/)
+- **Problem Link:** [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 ---
 
@@ -15,7 +15,7 @@ Standard algorithmic solution utilizing optimal data structures for General.
 
 ## Complexity Analysis
 
-- **Time Complexity:** `O(n)`
+- **Time Complexity:** `O(1)`
 - **Space Complexity:** `O(1)`
 
 
