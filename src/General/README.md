@@ -1,11 +1,11 @@
-# Pow(x, n)
+# Generate Parentheses
 
 - **Platform:** LeetCode
-- **Problem Number:** #50
+- **Problem Number:** #22
 - **Difficulty:** EASY
 - **Topic:** General
 - **Language:** Java
-- **Problem Link:** [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- **Problem Link:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
 ---
 
@@ -16,7 +16,7 @@ Standard algorithmic solution utilizing optimal data structures for General.
 ## Complexity Analysis
 
 - **Time Complexity:** `O(1)`
-- **Space Complexity:** `O(1)`
+- **Space Complexity:** `O(n)`
 
 
 ---
